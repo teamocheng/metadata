@@ -1,0 +1,12 @@
+{
+    "name": "USDT",
+    "symbol": "USDT",
+    "description": "USDT testnet Solana",
+    "image": "https://github.com/teamocheng/metadata/image/usdt.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
