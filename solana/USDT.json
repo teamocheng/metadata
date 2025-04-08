@@ -2,7 +2,7 @@
     "name": "USDT",
     "symbol": "USDT",
     "description": "USDT testnet Solana",
-    "image": "https://github.com/teamocheng/metadata/image/usdt.png",
+    "image": "https://teamocheng.github.io/metadata/image/usdt.png",
     "attributes": [
       {
         "trait_type": "Item",
